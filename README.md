@@ -33,7 +33,7 @@ streamlit run app.py
 
 ## Deployment
 
-This app is deployed on Hugging Face Spaces and can be accessed [here](https://huggingface.co/spaces/sssfasihieee/Relationship-Advisor).
+This app is deployed on Hugging Face Spaces and can be accessed [here](https://huggingface.co/spaces/sssfasihieee/RelationshipCounsellor).
 
 ---
 title: Relationship Advisor
